@@ -1,0 +1,62 @@
+# Java Calculator Application - Project Documentation
+
+## Project Title
+
+Java Calculator Application
+
+## Objective
+
+Develop a console-based calculator in Java that performs basic arithmetic operations and handles invalid user input using exception handling.
+
+## Technologies Used
+
+* Java
+* JDK
+* IntelliJ IDEA
+* GitHub
+
+## Features
+
+* Accepts user input using Scanner
+* Performs Addition, Subtraction, Multiplication, and Division
+* Uses switch-case statements for operation selection
+* Handles invalid inputs using try-catch blocks
+* Prevents division by zero errors
+* Supports decimal and negative numbers
+
+## Program Workflow
+
+1. User enters the first number.
+2. User enters an operator (+, -, *, /).
+3. User enters the second number.
+4. The program performs the selected operation.
+5. The result is displayed.
+6. Errors are handled appropriately.
+
+## Testing Results
+
+| Test Case         | Status |
+| ----------------- | ------ |
+| Addition          | Passed |
+| Subtraction       | Passed |
+| Multiplication    | Passed |
+| Division          | Passed |
+| Negative Numbers  | Passed |
+| Decimal Numbers   | Passed |
+| Division by Zero  | Passed |
+| Invalid Operator  | Passed |
+| Non-Numeric Input | Passed |
+
+## Challenges Faced
+
+* Handling invalid user inputs.
+* Preventing division by zero.
+* Implementing exception handling correctly.
+
+## Conclusion
+
+The Java Calculator Application was successfully developed and tested. The application performs arithmetic operations accurately and handles errors without crashing. The project demonstrates the use of Scanner, switch-case statements, exception handling, and basic software testing techniques.
+
+## GitHub Repository
+
+(Add your GitHub repository link here.)
